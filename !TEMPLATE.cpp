@@ -2,13 +2,10 @@
 
 using namespace std;
 
+int main()
+{
 
-main(){
-
-
-//test  COMIT 2
-
+    cout << "koniec testu commitow";
 
     return 0;
-    
 }
